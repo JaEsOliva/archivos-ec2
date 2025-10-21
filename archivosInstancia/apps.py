@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class NombreproyectoConfig(AppConfig):
+class ArchivosinstanciaConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'nombreProyecto'
+    name = 'archivosInstancia'
